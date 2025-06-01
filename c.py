@@ -17,6 +17,6 @@ def calculadora():
         
     resultado = calcular(a, b, operador)
 
-    print(resultado)
+    print(f"El resultado es {resultado}")
 
 calculadora()
